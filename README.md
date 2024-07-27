@@ -1,1 +1,1 @@
-Optical Character Recognition application that recognizes both printed and handwritten text usingmachine learning algorithms in Python
+Optical Character Recognition application that recognizes both printed and handwritten text using machine learning algorithms in Python
